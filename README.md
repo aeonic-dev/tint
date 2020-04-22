@@ -9,12 +9,12 @@ Add the following to your html head:<br>
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/prcptn-dsgn/qwik/dist/min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/enwash/tintt@latest/dist/min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/enwash/tint@latest/dist/min.js"></script>
 ```
 
 For default styling, also add:
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/enwash/tintt@latest/dist/min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/enwash/tint@latest/dist/min.css" />
 ```
 
 Or style tint yourself - have a look at index.js to view the html source.
