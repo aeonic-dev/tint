@@ -97,9 +97,3 @@ class tint {
         q.get('#tint-light').value + '%' + ')';
   }
 }
-
-tint.open('hsl(180,80%,50%)');
-window.addEventListener('tintdone', e=> {
-  tint.close();
-  alert(tint.get());
-});
