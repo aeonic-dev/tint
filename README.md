@@ -18,6 +18,8 @@ For default styling, also add:
 ```
 
 Or style tint yourself - have a look at index.js to view the html source.
+
+Alternatively, you can self-host tint and import the two files in `dist/`.
   
 ## Usage
 To open the tint modal:
