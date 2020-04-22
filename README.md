@@ -2,6 +2,8 @@
 Simple yet elegant hsl color picker<br>
 Requires [qwik.js](https://github.com/prcptn-dsgn/qwik/)
 
+![tint in action](images/preview.png "tint in action")
+
 ## Importing
 Add the following to your html head:<br>
 
