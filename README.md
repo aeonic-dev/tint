@@ -34,6 +34,7 @@ When the user has selected a color, a `tintdone` event will be triggered on `win
 
 ```js
 window.addEventListener('tintdone', e=> {
+  tint.close();
   color = tint.get();
   // do something with the selected color
 });
